@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://friskfly.github.io/"/>
-  <updated>2016-03-24T12:05:23.000Z</updated>
+  <updated>2016-03-24T14:48:10.000Z</updated>
   <id>http://friskfly.github.io/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>关于JS的bind</title>
+    <title>关于JS函数的bind方法</title>
     <link href="http://friskfly.github.io/2016/03/24/about-function-bind-in-js/"/>
     <id>http://friskfly.github.io/2016/03/24/about-function-bind-in-js/</id>
     <published>2016-03-24T09:09:05.000Z</published>
-    <updated>2016-03-24T12:05:23.000Z</updated>
+    <updated>2016-03-24T14:48:10.000Z</updated>
     
     <content type="html">&lt;p&gt;昨天被人问到js的bind的作用是什么？&lt;/p&gt;
 &lt;p&gt;这个倒还能回答出来，bind 之后返回一个新的函数，这个函数可以保持传递的this上下文。&lt;/p&gt;
